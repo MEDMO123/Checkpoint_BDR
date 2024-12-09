@@ -1,0 +1,29 @@
+Convertissez le diagramme entité-relation donné en un modèle relationnel.
+
+Implémenter le modèle relationnel à l'aide de SQL.
+
+Insérer des données dans les tables de la base de données.
+
+Récupérer une liste de tous les producteurs.
+
+Récupérer une liste triée de producteurs par nom.
+
+Récupérer une liste de producteurs de Sousse.
+
+Calculez la quantité totale de vin produite avec le numéro de vin 12.
+
+Calculez la quantité de vin produite pour chaque catégorie.
+
+Retrouvez les producteurs de la région de Sousse ayant récolté au moins un vin en quantité supérieure à 300 litres. Affichez leurs noms et prénoms, classés par ordre alphabétique.
+
+Citez les numéros de vins avec un degré supérieur à 12, produits par le producteur numéro 24.
+
+Trouvez le producteur qui a produit la plus grande quantité de vin.
+
+Trouvez le degré moyen de vin produit.
+
+Trouvez le vin le plus ancien de la base de données.
+
+Récupérez une liste de producteurs ainsi que la quantité totale de vin qu'ils ont produite.
+
+Récupérez une liste de vins ainsi que les coordonnées de leurs producteurs.
