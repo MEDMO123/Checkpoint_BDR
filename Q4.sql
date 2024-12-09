@@ -1,4 +1,3 @@
-select * 
+SELECT * 
 From Producteurs 
-
 ;
